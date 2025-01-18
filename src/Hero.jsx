@@ -44,11 +44,7 @@ function Hero() {
       <div className="lg:w-[1027px] lg:h-[490px]  md:w-[900px]  md:h-[400px] sm:w-[700px] sm:h-[200px] bg-[#CACACA] m-auto mt-24 relative rounded-2xl bg-opacity-40 backdrop-blur-md flex justify-center overflow-hidden">
         <motion.div className="relative top-[80px] h-[60px] w-[480px] ">
           <motion.span className="font-poppins md:text-[40px] sm:text-[30px] font-semibold md:tracking-[25px] sm:tracking-[35px] text-[#333333] z-0">
-<<<<<<< HEAD
             Vishwanath
-=======
-            K Vishwanath
->>>>>>> 7f7045baa46bb1a68193d54c85d2c3b8bbf67eb1
           </motion.span>
         </motion.div>
         <p className="font-poppins absolute md:text-[25px] sm:text-[20px] font-bold text-transparent bottom-32 md:tracking-[25px] sm:tracking-[20px] sm:left-40 md:left-64 bg-gradient-to-r from-[#4287f5] to-[#C73C7F] bg-clip-text">

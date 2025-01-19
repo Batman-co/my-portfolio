@@ -12,7 +12,7 @@ import { useMediaQuery } from 'react-responsive';
 
 function App() {
   
-  const isSmallest = useMediaQuery({query: '(max-width:600px)'});
+  const isSmallest = useMediaQuery({query: '(max-width:640px)'});
   const {scrollYProgress} = useScroll();
   const scaleX = useSpring(scrollYProgress)
   return (

@@ -55,12 +55,12 @@
               <Card
                 image={Mail}
                 Head="Mail"
-                text="FESTX is an annual symposium hosted by the Department of Computer Science and Business Systems of Sri Sairam Engineering College to promote the spirit of Entrepreneurship and to explore the latest tech trends. FESTX'23 is a two day programme hosted by the Department of Computer Science and Business Systems which has 7 unique inter-collegiate events."
+                text="MAIL is an AI-powered application designed to transform the way you manage emails and boost productivity. MAIL offers intelligent features to streamline email workflows and provide actionable insights. This cutting-edge platform is tailored to enhance efficiency and meet the evolving needs of users, with a strong emphasis on security and personalization."
               />
               <Card
                 image={cook}
                 Head="Cook it easy"
-                text="FESTX is an annual symposium hosted by the Department of Computer Science and Business Systems of Sri Sairam Engineering College to promote the spirit of Entrepreneurship and to explore the latest tech trends. FESTX'23 is a two day programme hosted by the Department of Computer Science and Business Systems which has 7 unique inter-collegiate events."
+                text="Cook It Easy is an innovative cooking app crafted to simplify your culinary journey and inspire creativity in the kitchen. Cook It Easy offers personalized recipes, step-by-step guidance, and smart meal planning features. This user-friendly platform is designed to enhance your cooking experience, making it accessible, efficient, and enjoyable for everyone."
               />
               <Card
                 image={Work1}

@@ -17,7 +17,7 @@ function App() {
   const scaleX = useSpring(scrollYProgress)
   return (
     
-    <BrowserRouter>
+    <div>
       {isSmallest ? <h1 className='text-center text-[30px] mt-52'>View in a Larger screen please 😊</h1> : <div className='w-[100vw] h-[815vh] bg-[#fafafa] pt-20'>
         <motion.div style={{scaleX}} transition={{duration:5,ease:"easeInOut"}} className='h-4 bg-[#393b3e] fixed top-0 left-0 right-0 z-20 origin-left transition-all ' />  
         
@@ -29,7 +29,8 @@ function App() {
 
     </div>}
       
-    </BrowserRouter>
+    </div>
+    
     
   );
 }

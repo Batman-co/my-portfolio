@@ -10,13 +10,21 @@ function Hire() {
         Hire me
       </text>
       <div className="absolute bottom-40 h-auto w-auto">
-        <div className="absolute right-24 top-8 text-center">
-          <h1 className="text-[50px] font-semibold">Email</h1>
+        <div className="absolute right-28 top-12 text-center">
+          <h1 className="text-[35px] font-semibold">Email</h1>
           <a
             href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqSvdHJQLJVCxKBbfmnBjvmmnznSDPsVTjtxrJxrXJVmxQjHDHgLCRLkPbqFKLGvWCjdwL"
-            className="text-[25px] italic font-light font-poppins "
+            className="text-[25px] italic font-light font-poppins text-[#323232] hover:tracking-widest transition-all duration-500"
           >
             vishwanathk807@gmail.com
+          </a>
+        </div>
+        <div className="absolute left-48 bottom-20 text-center">
+          <h1 className="text-[35px] font-semibold">Phone</h1>
+          <a
+            className="text-[25px] italic font-light font-poppins text-[#323232] hover:tracking-widest transition-all duration-500"
+          >
+            8946018858
           </a>
         </div>
 

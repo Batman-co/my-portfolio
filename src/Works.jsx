@@ -2,6 +2,7 @@
     import Work1 from "./Images/work1.png";
     import Mail from "./Images/mail.png"
     import cook from "./Images/cook.png"
+    import ship from "./Images/Ship.png"
     import { useRef } from "react";
     import { motion,useScroll,useTransform } from "framer-motion";
     import { Link,Element } from "react-scroll";
@@ -63,9 +64,9 @@
                 text="Cook It Easy is an innovative cooking app crafted to simplify your culinary journey and inspire creativity in the kitchen. Cook It Easy offers personalized recipes, step-by-step guidance, and smart meal planning features. This user-friendly platform is designed to enhance your cooking experience, making it accessible, efficient, and enjoyable for everyone."
               />
               <Card
-                image={Work1}
-                Head="Fest-x"
-                text="FESTX is an annual symposium hosted by the Department of Computer Science and Business Systems of Sri Sairam Engineering College to promote the spirit of Entrepreneurship and to explore the latest tech trends. FESTX'23 is a two day programme hosted by the Department of Computer Science and Business Systems which has 7 unique inter-collegiate events."
+                image={ship}
+                Head="Shipped"
+                text="Shipped is a cutting-edge logistics app built to streamline your shipping and delivery processes with ease. Shipped offers real-time tracking, automated updates, and optimized route planning for seamless operations. This reliable platform is designed to enhance efficiency, reduce costs, and deliver a hassle-free experience for businesses and customers alike."
               />
               </motion.div>
             </div>
